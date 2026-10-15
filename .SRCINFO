@@ -1,0 +1,17 @@
+pkgbase = gmai
+	pkgdesc = terminal ui to search, install, update and remove arch repo and aur packages
+	pkgver = 1.0.0
+	pkgrel = 1
+	url = https://github.com/keaneskiii/get-my-aur-installer
+	arch = x86_64
+	license = MIT
+	makedepends = git
+	makedepends = go
+	depends = glibc
+	provides = gmai
+	options = !lto
+	options = !debug
+	source = gmai-1.0.0.git::https://github.com/keaneskiii/get-my-aur-installer.git
+	sha256sums = SKIP
+
+pkgname = gmai
