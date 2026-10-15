@@ -1,7 +1,7 @@
 # gmai
 
 **work in progress** — this is an early build. things will change, some parts
-are unfinished, and it has not been battle-tested. use at your own risk,
+are unfinished, and it has not been battle tested. use at your own risk,
 especially since it can install and remove system packages.
 
 a terminal ui for arch linux that searches both the official repositories and
