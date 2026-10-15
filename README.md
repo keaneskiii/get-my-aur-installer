@@ -1,4 +1,4 @@
-# gmai
+# gmai (get my aur installer)
 
 **work in progress** — this is an early build. things will change, some parts
 are unfinished, and it has not been battle tested. use at your own risk,
